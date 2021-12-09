@@ -20,7 +20,13 @@ export default function IndexPage() {
           description="Demo"
         />
         <Banner />
-     
+        <Services />
+        <Testimonials />
+        <OurTeam />
+        <OtherServices />
+        <WhyUs />
+        <Blog />
+        <SubscribeUs />
       </Layout>
     </ThemeProvider>
   );

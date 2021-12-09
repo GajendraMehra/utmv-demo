@@ -12,12 +12,12 @@ const Banner = () => {
         <Box sx={styles.contentWrapper}>
           <SectionHeading
             sx={styles.heading}
-            title="Vercel Next js Demo"
-            description=""
+            title="Creativity starts with viewing the whole world differently"
+            description="A service agency with customer satisfaction"
           />
           <Box as="figure" sx={styles.illustration}>
             <Box sx={styles.buttonWrapper}>
-            
+              <Button>Get Started</Button>
             </Box>
             <Image src={illustration} alt="illustration" />
           </Box>
